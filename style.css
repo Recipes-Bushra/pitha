@@ -1,6 +1,5 @@
-
-
-ul li {
+ol li {
   background: #cce5ff;
-  margin: 5px;
+  padding: 5px;
+  margin-left: 35px;
 }
