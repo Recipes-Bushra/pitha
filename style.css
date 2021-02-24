@@ -1,1 +1,18 @@
 
+#menulink{
+}
+#menulink li{
+display:inline;
+}
+
+#menulink li a {
+color:white;
+text-decoration:none;
+background:black;
+padding: 20px;
+  }
+
+
+#menulink li a:hover{
+Background:red;
+}
