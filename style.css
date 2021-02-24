@@ -2,7 +2,7 @@
 #menulink{
 }
 #menulink li{
-display:inline;
+display:flex;
 }
 
 #menulink li a {
